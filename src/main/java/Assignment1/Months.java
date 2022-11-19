@@ -1,4 +1,4 @@
-package Calendar;
+package Assignment1;
 
 public enum Months implements Month {
     JANUARY{

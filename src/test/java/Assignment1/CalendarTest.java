@@ -1,5 +1,6 @@
-package Calendar;
+package Assignment1;
 
+import Assignment1.Calendar;
 import org.junit.jupiter.api.Test;
 
 import java.util.Objects;
