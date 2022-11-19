@@ -1,4 +1,5 @@
-import Calendar.Calendar;
+package Calendar;
+
 import org.junit.jupiter.api.Test;
 
 import java.util.Objects;
